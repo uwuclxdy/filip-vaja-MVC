@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "hESk4HhYC13vhVogK9NTFRTUBWjtFmeypxQ1gUlEPlIMJ/kTRNA5lPNSp73tAu/MHB+K/9ZJwrpL/anDyoe9Yw==",
+  "success": true,
+  "projectFilePath": "/home/uwuclxdy/repos/filip-vaja-MVC/filip-vaja-MVC/filip-vaja-MVC.csproj",
+  "expectedPackageFiles": [
+    "/home/uwuclxdy/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.abstractions.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.analyzers.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.inmemory.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.caching.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.6.24327.7/microsoft.extensions.caching.memory.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.6.24327.7/microsoft.extensions.dependencyinjection.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.6.24327.7/microsoft.extensions.logging.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.logging.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.options/9.0.0-preview.6.24327.7/microsoft.extensions.options.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.6.24327.7/microsoft.extensions.primitives.9.0.0-preview.6.24327.7.nupkg.sha512"
+  ],
+  "logs": []
+}
