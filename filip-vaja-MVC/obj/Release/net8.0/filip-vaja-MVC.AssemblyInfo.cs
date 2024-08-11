@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("filip-vaja-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99a00d156829220e7efd5d0def63b51cb56cf2a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("filip-vaja-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("filip-vaja-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
